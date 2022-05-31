@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap');
+
+.container {
+  background-image: url(https://www.nydailynews.com/resizer/brUeNzLvtFikykaB0r8O4AEBtTw=/800x533/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/7VI4CCLEHNF7TFOGLZKYDC2RUM.jpg);;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.55), 5px 5px 20px rgba(0, 169, 251, 0.5);
+}
+
+        section {
+            padding-bottom: 100px;
+        }
+
+.btn-primary {
+    background-color: #E9D5DA;
+    /*padding-bottom: 10px;
+      background-position: center;*/
+    margin: auto;
+    width: 25%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.row {
+  padding: 10px
+}
